@@ -1,0 +1,1 @@
+from .speechSynthControl import textToSpeech
