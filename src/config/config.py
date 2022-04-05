@@ -1,2 +1,2 @@
 class Config:
-    UPLOAD_BUCKET_NAME = 'pdftotext-result-files' 
+    UPLOAD_BUCKET_NAME = '' 
